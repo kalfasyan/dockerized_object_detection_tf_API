@@ -10,4 +10,4 @@ old/**
 exporting/**
 test_images/**
 annotations/**
-
+model_ckpt/**
