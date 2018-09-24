@@ -1,2 +1,1 @@
-# helmet_detector
-
+# Object detection using Tensorflow's API
