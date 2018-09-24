@@ -5,9 +5,4 @@ __pycache__/
 data/**
 .ipynb_checkpoints/**
 images/**
-images_raccoons/**
-old/**
 exporting/**
-test_images/**
-annotations/**
-model_ckpt/**
